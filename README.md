@@ -1,1 +1,1 @@
-# exercise_Golang
+# sample code in go
